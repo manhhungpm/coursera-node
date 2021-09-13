@@ -15,7 +15,7 @@ function solveRect(l,b) {
                 + l + " and b = " + b + " is " + rectangle.perimeter());
         }
     });
-    console.log("This statement after the call to rect()    ");
+    console.log("This statement after the call to rect()");
 };
 
 solveRect(2,4);
